@@ -21,9 +21,7 @@ const App = () => {
     </Routes>
   </BrowserRouter>
 
-    // return <>
-    //   <Test />
-    // </>
+  
 }
 
 export default App
